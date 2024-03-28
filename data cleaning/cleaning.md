@@ -10,6 +10,8 @@ The following tasks have been completed:
 
 - Identification of duplicates in each of the tables. 44 duplicates were identified in the orders table.
 
+Theses duplicates have been removed from the view orders_clean created from the orders table.
+
 - Identification of null values
 	- table events: 1,124,626 null values for user_id
 	- table inventory_items: 
